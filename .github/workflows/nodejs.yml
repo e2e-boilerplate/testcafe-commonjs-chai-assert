@@ -1,4 +1,4 @@
-name: testcafe-commonjs
+name: testcafe-commonjs-chai-assert
 'on':
   push: null
   schedule:
