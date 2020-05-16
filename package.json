@@ -28,14 +28,15 @@
   },
   "keywords": [
     "assert",
-    "boilerplate",
     "chai",
     "commonjs",
+    "testcafe",
     "e2e",
     "e2e tests",
-    "example",
+    "boilerplate",
     "integration test",
-    "testcafe"
+    "test automation",
+    "javascript"
   ],
   "license": "MIT",
   "lint-staged": {
